@@ -33,10 +33,25 @@ v7-DC83713-UsDMURlB1AUMUtzMvQbBLWQvM1tKXVLlntCByUo0LzBWFCmsFUCBtvEvMVAyvBmnKMDlX
 
 ### Broccoli
 
-+ PD 
-+ BT
+1. PD 
+2. BT
 
 ### Avocado
 
-+ CD
-+ DB
+1. CD
+2. DB
+
+### Banana 
+1. AD
+2. GB
+
+### Cucumber
+1. AD
+2. CD
+
+### Pear
+1. AD 
+
+### Chii Pepper
+1. CD
+2. SDB
