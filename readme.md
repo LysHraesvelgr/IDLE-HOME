@@ -92,3 +92,6 @@ v7-DC83990-tJIRziLOzsyRzCosJokyOMlXKTlXiqlXizJXiTSC0zXislCKWICinJXKWFXKbIXiykXVR
 ### Blueberry
 1. PD
 2. DB
+
+### Apple
+1. PD
