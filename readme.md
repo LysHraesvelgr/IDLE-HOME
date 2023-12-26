@@ -83,6 +83,18 @@ v7-DC83C06-DxaCeRSMVeNCWighXZbDCVDroVdzoPVlBxWZmgWUBxWwexrZSgpDgWCmgWfmxWiGxWfGg
 ```lua
 v7-DC83D2F-SVNwyJKzPzMzyWYoxmzEvPB0VGPdohzydBrSGyVmRyGelPYGlabYWxdvPcUBAbDzmyGVuyzWzPwbzyVINaSzcRyzUGyNpWNocSWamyDGVPzVIyYdGPzUhPMSvzPqUIvyxNaSIWRyGkePSKkJSvPoURmBlvmAUvISWRmacvjSRIzlvmAlRmJWRIAevIdUvmVcRFPczkGySulPzYGycSmzJRySRKGeKbVySxzPBSExqdkzvyDIhPzuG-SETTINGS111,DN29,TG011111111111100000011,SD6949,GT101111111,GS5905,PP1-WEAPONS,,,41vCv20qF18,,,,,,,,,,,,,,---IdleHome
 ```
+41 51 pre dog test 
+```js
+v7-DC83C8E-RchfDkgfbQbCfpSkgruQFfebcFpagW1FNIxRre1tOCaoHYgSfQxmCfTIh1rdhg1grg1TdgfgXgftMScvMeWmISWprScwDSBpSWTMeWmISWxrecXreWHISWFQeL1vjFg1gMg1KaRTae1paT1YeuMKdCAvW1CDg1TFc1uvlpTfbvtxpefRgFfpvS1ghM1kTImYOQSfmReg1aOAOkDOxHe1AbNxcTYSfxWMS1goT-SETTINGS111,DN26,TG011111111111100000011,SD6949,GT101111111,GS5905,PP1-WEAPONS,NFvBv2q35C,0v8v1Eq387,N12v9vNCqED3,,,,,,,,,,,,,,---IdleHome
+```
+102
+```js
+v7-DC83D3B-RlmBTJNBEZvMBJtwMeNYEtPEMwePWmeyWuLvYlMzeQAULwMuNBWDQDyIDWYNBU0QszTsNeIthmBUZNwStNwhZN0PQNwSIzfTz0MZz0OtN0LcN0Ocz0dZNwEINHeP0EemEZBmj0ePmjBZzvETcNBVdMBPzyMcRIEBSIlWPzBEtcMBQZwzeEwzBEvTmWzehTNMemIgYedsmeYymBJijMBRSnTMBWPgMBMZS0sgLsS0eUujmBMtE-SETTINGS111,DN96,TG011111111111100000011,SD6949,GT101111111,GS5905,PP1-WEAPONS,NFvBv2q35C,1AvCv2Cq334,N14vEvN12qFE4,,,,,,,,,,,,,,---IdleHome
+```
+42
+```lua
+v7-DC83BC9-CxuMY1KtfyifEFOyPFOsBt1yPIOJHt1KYqOMIqOx0Fy1VEY1vChGDYdS1zVfGpbdytOlpKYGtOtDEdSJsS1bYjSpCNJVSOfxeqSOKJY1dYpJKSOYFy1SsfsbsYDOBSpFKiS1yFDOVhfPMmVEHI1hBSIHPSIzPSIKvSDxstoKSDYPtIzPtIJiSIzvSDbBtDFEtZ1CMty-SETTINGS111,DN61,TG011111111111100000011,SD6949,GT101111111,GS5905,PP1-WEAPONS,,,,,,,,,,,,,,,,,---IdleHome
+```
 ---
 
 ## Potion Formulas
@@ -90,7 +102,6 @@ v7-DC83D2F-SVNwyJKzPzMzyWYoxmzEvPB0VGPdohzydBrSGyVmRyGelPYGlabYWxdvPcUBAbDzmyGVu
 ### Carrot
 + AD 
 + SDB
-
 ### Orange
 + DB 
 + CD
@@ -99,34 +110,26 @@ v7-DC83D2F-SVNwyJKzPzMzyWYoxmzEvPB0VGPdohzydBrSGyVmRyGelPYGlabYWxdvPcUBAbDzmyGVu
 + AD 
 + BT 
 + LK
-
 ### Broccoli
 1. PD 
 2. BT
-
 ### Avocado
 1. CD
 2. DB
-
 ### Banana 
 1. AD
 2. GB
-
 ### Cucumber
 1. AD
 2. CD
-
 ### Pear
 1. AD 
-
 ### Chii Pepper
 1. CD
 2. SDB
-
 ### Kiwi
 1. LK
 2. SDB
-
 ### Corn    
 1. GB
 1. SDB
@@ -135,22 +138,18 @@ v7-DC83D2F-SVNwyJKzPzMzyWYoxmzEvPB0VGPdohzydBrSGyVmRyGelPYGlabYWxdvPcUBAbDzmyGVu
 1. BT
 2. AD
 3. SDB
-
 ### Lime 
 1. BT 
 2. LK 
-
 ### Blueberry
 1. PD
 2. DB
-
 ### Apple
 1. PD
 
 ### Pineapple
 1. DB
 2. GB
-
 ### Watermelon  
 1. DB 
 2. GB 
