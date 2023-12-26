@@ -1,3 +1,25 @@
+<STYLE>
+    body {
+        background: black;
+        color: #91ecBE;
+    }
+    
+    li {
+        color: #be91ec;
+    }
+
+    h2 {
+        color: #ecbe91;
+    }
+    h5 , ass {
+        color:red;
+    }
+    h6 {
+        color:#355;
+    }
+
+</style>
+
 # IDLE HOME
 
 ## personal save
@@ -37,7 +59,12 @@ fucking crash
 ```js
 v7-DC836F0-CsGlUIBlCmVwEpQUvIKXATwKTjwpVOkQlVGVwjBVlaKQClCGjwIuhbClKVjwaELlVzCwLAivoBXVQlKQPVxIajwsrsCvVXLwLbkPCzCHwuejCwKkVwmXVaVsLl1ICl1GQHuGLTmGLTKsLTAaLObQTCGQHriLTkxQTrsQHMiLTjpLRwzEGLlmi1LCHpQlP1XMaSuKBQwCDMwCsVlXWPvbQlBpVlCEHlxSjVwViTloDC-SETTINGS111,DN310,TG011110101011100000011,SD6949,GT101111111,GS5915,PP1-WEAPONS,1AvCv2Cq379,,13vDv19q1E4,0v8v1EqE1F,,,,,,,,,,,,,---IdleHome
 ```
+37 86 
+```js
+v7-DC83CAE-WwnbwpUnpulUiwFWhTbVq0Tf0OTbO0MWlFNTWloROxNTlTwEqbWVsbWSwbKnVKrRNRqulWsYlUfilRYTlWqFUlWoTlsYwulzRsWbvpiWlqgPNWlasTxgsTxesTxNhTnrOuBNTnUsTxVsTnRiTneiunqwunFjuZbRUoWlNnYbpnKWbWFxb0ToWhoOYlDECpSqvUuleCUlTnhUdlNRUbROgKYnMhrnbrIYUb0WFlV0eUlCjUlWFslhEapnUzT-SETTINGS111,DN323,TG011110101011100000011,SD6949,GT101111111,GS5915,PP1-WEAPONS,N17v11vN1Eq148,1AvCv2Cq288,N17vEvN10qED5,,,,,,,,,,,,,,---IdleHome
+```
 ---
+
 ## Potion Formulas
 
 ### Carrot
