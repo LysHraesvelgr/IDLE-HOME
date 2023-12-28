@@ -105,8 +105,8 @@ v7-DC83D52-BTQDiaxyNmUxkHIxajZxAQaNaXiZrQIbDBjZaEeAZbjEZAYVNQWdXAZmiXZLbAZEQUlmy
 ```
 206
 ```js
-v7-DC845D7-bwbOjpjaTWb1Jpjnupb0xW1UwjDZlyWUjyUpQyMWDKMWFnsGbWaAhxzuUWaiuWDN1yjWx1dpDO1G1UWkzjWjTuWkEOmpDzjipjGJpjXuWjQUQpzOkjpjMAWzTJNkbzmpMAMpuGuqWFOUKnOmKJMUK1DUK0lmdQmKjMUIhMmIPDmKJuUIEOUIylmRWMVpX0s1bWzJOpUP0jW1kDWNazE1OjKWlZOzOUOXnKpbJbxbWjUJWiAljPUpQIGpjGKpAybQpjxibplKbhjpJabTjpDiGlNEijUp1byWMyTEWMxMWDEIxajiUWjuwWiDUaXzIMXUWZkwjpzwXbWamqpEQmjWblAWjOypPwuWja1pkwbujWjKh-SETTINGS111,DN6,TG011011111111100000011,SD6949,GT101111111,GS5905,PP1-WEAPONS,AvAv25q248,,12v4v1CqE8A,,,,,,N12vAv4qC51,0v8v1EqC1A,,1AvCv2CqDED,,,,N17v9vN9qD5D,---IdleHome
-``````
+v7-DC84568-WOereKeIBEvugKufIK1MzrqzUEhbdpKcjzKfX1qNUKGIfAFhsedKvhHGcejUKsGNueEPNCecdEeVvKVcbKAgpWeKebrKOPvKOreyupqdEegrEIDrCoFfzhUKIXuEUOPeEeFspKo1eveENDFKegCdEMqeKejGEMPQfpEeBvEAyvKqMzEeUXKefgKeuCEyjudKMudHDIdHWIdgbzUHPqUlNdgeIdHXuUgOzUgXvUHVuUHCAUYKeWpFpKuvjbXpUAPHKXzuENHCKpOrEpABEAyhpEFbkKpvyKNUyev1AfEhyN1cIpHEVPiNeEeNdbEebXKBCpNKbpfKXGuEeCXKAIMeEIBuKzGbfpKegWK1M1p-SETTINGS111,DN43,TG011011111111100000011,SD6949,GT101111111,GS5905,PP1-WEAPONS,AvAv25q248,,12v4v1CqE8A,,,,N15vAv2qBE5,,3Fv22v20qE18,0v8v1EqC1A,,1AvCv2CqDED,,,,BvBv15qD6D,---IdleHome
+```
 ---
 
 ## Potion Formulas
@@ -147,6 +147,9 @@ v7-DC845D7-bwbOjpjaTWb1Jpjnupb0xW1UwjDZlyWUjyUpQyMWDKMWFnsGbWaAhxzuUWaiuWDN1yjWx
 #### Lime 
 1. BT 
 2. LK 
+#### Pineapple
+1. DB
+2. GB
 
 ### Rare
 #### Strawberry
@@ -173,9 +176,6 @@ v7-DC845D7-bwbOjpjaTWb1Jpjnupb0xW1UwjDZlyWUjyUpQyMWDKMWFnsGbWaAhxzuUWaiuWDN1yjWx
 #### Broccoli
 1. PD 
 2. BT
-#### Pineapple
-1. DB
-2. GB
 #### Lemon
 1. BT
 2. AD
@@ -211,6 +211,20 @@ v7-DC845D7-bwbOjpjaTWb1Jpjnupb0xW1UwjDZlyWUjyUpQyMWDKMWFnsGbWaAhxzuUWaiuWDN1yjWx
     + +2% to passive trigger
 + #### passive
     + 1% to deal 1.5+.2(lvl) PD damage
+### Unholy Soulflayer
++ #### passive
+    + 50+.2(lvl) stacks of 1+.1(lvl)% AD
+        + aka 50 + 5.2(lvl) + .02(lvl)^2 %AD
+
+
+### GODPIERCER
++ #### active
+    + +100+5(lvl)% GB
++ #### held
+    + 5(lvl)% GB
++ #### passive
+    + 5+5(lvl)% GB
+
 ### tbd
 + #### active
 
