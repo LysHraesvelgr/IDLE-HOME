@@ -95,6 +95,18 @@ v7-DC83D3B-RlmBTJNBEZvMBJtwMeNYEtPEMwePWmeyWuLvYlMzeQAULwMuNBWDQDyIDWYNBU0QszTsN
 ```lua
 v7-DC83BC9-CxuMY1KtfyifEFOyPFOsBt1yPIOJHt1KYqOMIqOx0Fy1VEY1vChGDYdS1zVfGpbdytOlpKYGtOtDEdSJsS1bYjSpCNJVSOfxeqSOKJY1dYpJKSOYFy1SsfsbsYDOBSpFKiS1yFDOVhfPMmVEHI1hBSIHPSIzPSIKvSDxstoKSDYPtIzPtIJiSIzvSDbBtDFEtZ1CMty-SETTINGS111,DN61,TG011111111111100000011,SD6949,GT101111111,GS5905,PP1-WEAPONS,,,,,,,,,,,,,,,,,---IdleHome
 ```
+hoops brb 
+```ps1
+v7-DC83D8B-pXpswxwsqlKwexrCsS01lHrmvRhIHdqpLlsWupIPCxtIqpEIjFCsxXSAYtSp0Iw1pIrElIwKlIWpKlYQYLtlIpQwsLCdWswepILmAwSpulsu0pCpsQq0wIqLpIjSR1qe0slq0uWjwFscQvLFpm0swNwIXtpsxHajwsrNCuj0sMHaCpISQhWIw1hswChsNE10Iw1CIv1lFHP0hdPlFqelhRrlbq0Fw1lhdPlFLe0FdclFtP0hCu0O-SETTINGS111,DN7,TG011011111111100000011,SD6949,GT101111111,GS5905,PP1-WEAPONS,,1AvCv2Cq4ED,N13vBvN12qEE4,0v8v1Eq110,,,,,,,,,,,,,---IdleHome
+```
+44 + ANKH'HEM 152
+```js
+v7-DC83D52-BTQDiaxyNmUxkHIxajZxAQaNaXiZrQIbDBjZaEeAZbjEZAYVNQWdXAZmiXZLbAZEQUlmyNArPZqlarAZmPrNeEaBaZxEAHaNEjVABflXNICdEaNAqSZatYZEBrNbqUVPaMNLmyaNWQWibEljZyaWANIEaPaZExBNQSjiCrjvqryvEByvWbyGmjvarjvqryvkBjvcBjvLSyiXbjgZkPLAZYTfANALkeZjSHieXHbLyZWaSvbVbeCvZaSUZTUjNmkANHcryNemaqaZEaUNyOaXANaCYNDOSNQHDAkjNVDBe-SETTINGS111,DN69,TG011011111111100000011,SD6949,GT101111111,GS5905,PP1-WEAPONS,AvAv25q248,,0v8v1EqE12,,,,,,,,,Dv7v3Aq2FE,,,,2vCv2CqC03,---IdleHome
+```
+206
+```js
+v7-DC845D7-bwbOjpjaTWb1Jpjnupb0xW1UwjDZlyWUjyUpQyMWDKMWFnsGbWaAhxzuUWaiuWDN1yjWx1dpDO1G1UWkzjWjTuWkEOmpDzjipjGJpjXuWjQUQpzOkjpjMAWzTJNkbzmpMAMpuGuqWFOUKnOmKJMUK1DUK0lmdQmKjMUIhMmIPDmKJuUIEOUIylmRWMVpX0s1bWzJOpUP0jW1kDWNazE1OjKWlZOzOUOXnKpbJbxbWjUJWiAljPUpQIGpjGKpAybQpjxibplKbhjpJabTjpDiGlNEijUp1byWMyTEWMxMWDEIxajiUWjuwWiDUaXzIMXUWZkwjpzwXbWamqpEQmjWblAWjOypPwuWja1pkwbujWjKh-SETTINGS111,DN6,TG011011111111100000011,SD6949,GT101111111,GS5905,PP1-WEAPONS,AvAv25q248,,12v4v1CqE8A,,,,,,N12vAv4qC51,0v8v1EqC1A,,1AvCv2CqDED,,,,N17v9vN9qD5D,---IdleHome
+``````
 ---
 
 ## Potion Formulas
@@ -154,3 +166,51 @@ v7-DC83BC9-CxuMY1KtfyifEFOyPFOsBt1yPIOJHt1KYqOMIqOx0Fy1VEY1vChGDYdS1zVfGpbdytOlp
 1. DB 
 2. GB 
 3. LK
+### Potato
+1. GB
+2. LK
+### Mango
+1. SDB
+2. BT
+3. CD
+### Grape
+1. LK
+2. BT
+2. DB
+
+---
+
+## WEAPONS
+
+### Ankh'hem
++ #### active
+    + +20% to passive %
++ #### held
+    + +3% to passive %
+    + +(5%+5%(lvl))[AD] to [PD]
+        + AD scaling to PD
++ #### passive
+    + 2% chance deal(4+.5(lvl))[PD]
+
+### Malachite Unmaker
++ #### active
+    + +(25+4*lvl) LK
+    + KEY DROP * 1+lvl^.5/10
++ #### held
+    + +4*lvl LK
++ #### passive
+    + +4*lvl LK
+### wRATHFUL sOULRENDER
++ #### active
+    + +7% to passive trigger
++ #### held
+    + +.5^PD PD
+    + +2% to passive trigger
++ #### passive
+    + 1% to deal 1.5+.2(lvl) PD damage
+### tbd
++ #### active
+
++ #### held
+
++ #### passive
