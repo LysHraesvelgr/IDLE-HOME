@@ -110,73 +110,76 @@ v7-DC845D7-bwbOjpjaTWb1Jpjnupb0xW1UwjDZlyWUjyUpQyMWDKMWFnsGbWaAhxzuUWaiuWDN1yjWx
 ---
 
 ## Potion Formulas
-
-### Carrot
+### Common
+#### Blueberry
+1. PD
+2. DB
+#### Carrot
 + AD 
 + SDB
-### Orange
+#### Apple
+1. PD
+#### Pear
+1. AD 
+#### Orange
 + DB 
 + CD
+#### Potato
+1. GB
+2. LK
 
-### Strawberry
+### Uncommon
+#### Cucumber
+1. AD
+2. CD
+#### Kiwi
+1. LK
+2. SDB
+#### Avocado
+1. CD
+2. DB
+#### Corn    
+1. GB
+1. SDB
+#### Banana 
+1. AD
+2. GB
+#### Lime 
+1. BT 
+2. LK 
+
+### Rare
+#### Strawberry
 + AD 
 + BT 
 + LK
-### Broccoli
-1. PD 
-2. BT
-### Avocado
-1. CD
-2. DB
-### Banana 
-1. AD
-2. GB
-### Cucumber
-1. AD
-2. CD
-### Pear
-1. AD 
-### Chii Pepper
-1. CD
-2. SDB
-### Kiwi
+#### Grape
 1. LK
-2. SDB
-### Corn    
-1. GB
-1. SDB
-
-### Lemon
-1. BT
-2. AD
-3. SDB
-### Lime 
-1. BT 
-2. LK 
-### Blueberry
-1. PD
+2. BT
 2. DB
-### Apple
-1. PD
-
-### Pineapple
-1. DB
-2. GB
-### Watermelon  
-1. DB 
-2. GB 
-3. LK
-### Potato
-1. GB
-2. LK
-### Mango
+#### Chii Pepper
+1. CD
+2. SDB
+#### Mango
 1. SDB
 2. BT
 3. CD
-### Grape
-1. LK
+#### Watermelon  
+1. DB 
+2. GB 
+3. LK
+
+###unk
+#### Broccoli
+1. PD 
 2. BT
-2. DB
+#### Pineapple
+1. DB
+2. GB
+#### Lemon
+1. BT
+2. AD
+3. SDB
 
 ---
 
