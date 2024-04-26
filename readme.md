@@ -22,8 +22,6 @@
 
 # IDLE HOME
 
-
-
 ## Potion Formulas
 ### Common
 #### Blueberry
@@ -111,10 +109,11 @@
     + +20% to passive %
 + ##### held
     + +3% to passive %
-    + +(5%+5%(lvl))[AD] to [PD]
+    + +5%*(1+lvl) [AD] to [PD]
         + AD scaling to PD
 + ##### passive
-    + 2% chance deal(4+.5(lvl))[PD]
+    + 2% chance     
+        + DEAL (8+lvl)/2 [PD]
 
 #### Archfiend's Fang
 + ##### active
@@ -123,7 +122,11 @@
     + 30% CRIT RATE
     + 10% ULTRA CRIT RATE
 + ##### passive
-    + 100[lvl] stacks of 1+lvl/2 % crit dam = 150% crit dam
+    + 100[lvl] stacks of 1+lvl/2 % crit dam = [100+lvl][1+LVL/2] %CD 
+        + 100+51LVL+.5LVL^2
+            1. 151.5%
+            1. 203%
+            1. 
 ### MYTHICAL
 
 #### Unholy Soulflayer
@@ -174,11 +177,11 @@
 
 #### WYVERNSABER
 + ##### active
-
+    100 + 10LVL %CD
 + ##### held
-
+    25 + 5LVL %CD
 + ##### passive
-
+    50 + 5LVL %CD
 #### tbd
 + ##### active
 
@@ -192,3 +195,50 @@
 + ##### held
 
 + ##### passive
+
+## Ascension Upgrades
+### Super Auto Pet
+tier| effect | cost
+:-|:-:|-:
+1| 10% held skill alpha | n 
+2| +10% held skill alpha | n 
+3| +10% held skill alpha | n 
+4| +10% held skill alpha | 3800 
+### Ascension Gem Damage
+tier| effect | cost
+:-|:-:|-:
+1| +1% damage / gem | n 
+2| +1% damage / gem | 4000 
+3| +1% damage / gem | n 
+4| +1% damage / gem | n
+### Gacha Dim Storage
+tier| effect | cost
+:-|:-:|-:
+1| +1-2% gacha conversion | n 
+2| +1-2% gacha conversion | n 
+3| +1-2% gacha conversion | n 
+4| +1-2% gacha conversion | 3200
+### Daily Gacha Key
+tier| effect | cost
+:-|:-:|-:
+1| 1-5 keys per use | 500 
+2| 1-5 keys per use | 2000
+3| 1-5 keys per use | n 
+4| 1-5 keys per use | n
+### Clunker
+tier| effect | cost
+:-|:-:|-:
+1| unlock clunker | n 
+2| +1 arm | 1000 
+3| +1 arm | 50000 
+4| basic bitch | n 
+### Potion Station
+tier| effect | cost
+:-|:-:|-:
+1| unlock potions | n 
+2| +1% strength | 630 
+3| +1% duration | 2400 
+4| basic bitch | n
+
+https://www.twitch.tv/redzenin
+https://player.twitch.tv/?redzenin&parent=twitch.tv
