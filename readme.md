@@ -204,12 +204,13 @@ tier| effect | cost
 2| +10% held skill alpha | n 
 3| +10% held skill alpha | n 
 4| +10% held skill alpha | 3800 
+5| +10% held skill alpha | 48000
 ### Ascension Gem Damage
 tier| effect | cost
 :-|:-:|-:
 1| +1% damage / gem | n 
 2| +1% damage / gem | 4000 
-3| +1% damage / gem | n 
+3| +1% damage / gem | 1.1e6 
 4| +1% damage / gem | n
 ### Gacha Dim Storage
 tier| effect | cost
@@ -218,12 +219,13 @@ tier| effect | cost
 2| +1-2% gacha conversion | n 
 3| +1-2% gacha conversion | n 
 4| +1-2% gacha conversion | 3200
+5| +1-2% gacha conversion +gauranteed key | 48000
 ### Daily Gacha Key
 tier| effect | cost
 :-|:-:|-:
 1| 1-5 keys per use | 500 
 2| 1-5 keys per use | 2000
-3| 1-5 keys per use | n 
+3| 1-5 keys per use | 12000 
 4| 1-5 keys per use | n
 ### Clunker
 tier| effect | cost
@@ -238,7 +240,5 @@ tier| effect | cost
 1| unlock potions | n 
 2| +1% strength | 630 
 3| +1% duration | 2400 
-4| basic bitch | n
-
-https://www.twitch.tv/redzenin
-https://player.twitch.tv/?redzenin&parent=twitch.tv
+4| -1% brew time basic bitch | 12000
+5| basic bitch | n
