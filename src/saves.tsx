@@ -1,8 +1,6 @@
-export default function saves() {
-    return (
-        <div>
-            <h1>Saves</h1>
-            <p>Welcome to the Saves page!</p>
-        </div>
-    );
+import ReactMarkdown from "react-markdown";
+import savesContent from "../personal-saves.md?raw";
+
+export default function Saves() {
+    return <ReactMarkdown>{savesContent}</ReactMarkdown>;
 }

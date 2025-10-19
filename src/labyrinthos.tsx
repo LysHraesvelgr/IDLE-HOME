@@ -1,8 +1,8 @@
-export default function labyrinthos() {
+import ReactMarkdown from "react-markdown";
+import readmeContent from "../readme.md?raw";
+export default function Labyrinthos() {
     return (
-        <div>
-            <h1>Labyrinthos</h1>
-            <p>Welcome to the Labyrinthos page!</p>
-        </div>
+        <ReactMarkdown>{readmeContent}</ReactMarkdown>
+        
     );
 }

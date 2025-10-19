@@ -3,8 +3,8 @@ import './App.css'
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom'
 import Limitbreak from "./limit-break.tsx";
 import Keys from "./keys.tsx";
-//import saves from "./saves.tsx";
-//import labyrinthos from "./labyrinthos.tsx";
+import Saves from "./saves.tsx";
+import Labyrinthos from "./labyrinthos.tsx";
 
 function App() {
 return (
@@ -19,20 +19,8 @@ return (
         }/>
         <Route path="/limit-break" element={<Limitbreak />} />
         <Route path="/keys" element={<Keys />} />
-        <Route path="/saves" element={
-          <div>
-            <h1>Under Construction</h1>
-            <p>Select a category.</p>
-          </div>
-          /*<Saves />*/
-          } />
-        <Route path="/labyrinthos" element={ 
-          <div>
-            <h1>Under Construction</h1>
-            <p>Select a category.</p>
-          </div>
-          /*<Labyrinthos />*/
-          } />
+        <Route path="/saves" element={<Saves />} />
+        <Route path="/labyrinthos" element={<Labyrinthos />} />
       </Routes>
       <nav>
         {/* Navigation links */}
