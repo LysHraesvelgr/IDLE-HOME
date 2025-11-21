@@ -205,6 +205,7 @@ tier| effect | cost
 3| +10% held skill alpha | n 
 4| +10% held skill alpha | 3800 
 5| +10% held skill alpha | 48000
+6| +10% held skill alpha | 72e4
 ### Ascension Gem Damage
 tier| effect | cost
 :-|:-:|-:
@@ -220,20 +221,23 @@ tier| effect | cost
 3| +1-2% gacha conversion | n 
 4| +1-2% gacha conversion | 3200
 5| +1-2% gacha conversion +gauranteed key | 48000
+6| +1-2% gacha conversion | 86e4
 ### Daily Gacha Key
 tier| effect | cost
 :-|:-:|-:
 1| 1-5 keys per use | 500 
 2| 1-5 keys per use | 2000
 3| 1-5 keys per use | 12000 
-4| 1-5 keys per use | n
+4| 1-5 keys per use | 96000
+5| 1-5 keys per use | 96e4
 ### Clunker
 tier| effect | cost
 :-|:-:|-:
 1| unlock clunker | n 
 2| +1 arm | 1000 
 3| +1 arm | 50000 
-4| basic bitch | n 
+4| +1 arm | 3e7
+n| bitch arm | n
 ### Potion Station
 tier| effect | cost
 :-|:-:|-:
@@ -241,4 +245,5 @@ tier| effect | cost
 2| +1% strength | 630 
 3| +1% duration | 2400 
 4| -1% brew time basic bitch | 12000
-5| basic bitch | n
+5| +1% strength | 75000
+6| +1% duration | 56e4
